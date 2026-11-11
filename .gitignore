@@ -1,0 +1,9 @@
+dataset/
+output.csv
+log.txt
+runs/
+__pycache__/
+*.pyc
+.env
+code/cache/
+code.zip
